@@ -2,31 +2,31 @@
     {
       "color": "ff368418",
       "maxonline": 1000,
-      "name": "White Hills #1",
-      "online": 1,
+      "name": "МАТРЕШКА MOBILE #1",
+      "online": 1000,
       "recommend": true,
-      "edgar_host": "51.81.57.217",
-      "edgar_port": 27085,
+      "edgar_host": "localhost",
+      "edgar_port": 7777,
       "id": 1
     },
    {
       "color": "30d5c8",
       "maxonline": 1000,
-      "name": "White Hills #2",
+      "name": "МАТРЕШКА MOBILE #2",
       "online": 841,
       "recommend": true,
-      "edgar_host": "51.81.57.217",
-      "edgar_port": 27085,
+      "edgar_host": "localhost",
+      "edgar_port": 7777,
       "id": 2
     },
     {
       "color": "ff0000",
       "maxonline": 1000,
-      "name": "White Hills test #3",
+      "name": "МАТРЕШКА MOBILE #3",
       "online": 936,
       "recommend": false,
-      "edgar_host": "51.81.57.217",
-      "edgar_port": 27085,
+      "edgar_host": "localhost",
+      "edgar_port": 7777,
       "id": 3
     }
 ]
