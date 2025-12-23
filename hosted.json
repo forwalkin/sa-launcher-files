@@ -1,0 +1,22 @@
+{
+    "query": [
+        {
+            "number": 0,
+            "name": "bruk online",
+            "ip": "168.222.251.98",
+            "port": 5792,
+            "online": 0,
+            "maxplayers": 300,
+            "password": false
+        },
+        {
+            "number": 1,
+            "name": "nations war",
+            "ip": "149.56.41.54",
+            "port": 7776,
+            "online": 1,
+            "maxplayers": 100,
+            "password": false
+        }
+    ]
+}
